@@ -4,7 +4,7 @@
   "description": "workflow management project",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/planetofwebdesign/workflows.git"
   },
   "author": "vikas yadav",
   "devDependencies": {
