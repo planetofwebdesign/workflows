@@ -1,0 +1,10 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "workflow management project",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "vikas yadav"
+}
